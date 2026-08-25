@@ -1,232 +1,29 @@
-# Contexto maestro de investigación de negocios
+# Contexto maestro — Red de contenido digital faceless
 
-> Documento diseñado para ser entregado a otros modelos de IA y permitir que continúen la investigación **sin perder el foco, repetir trabajo ya realizado ni mezclar hechos confirmados con hipótesis**.
+> Documento diseñado para ser entregado a otros modelos de IA para continuar esta investigación **sin perder el foco, repetir trabajo ya realizado ni mezclar hechos confirmados con hipótesis**.
 
 ---
 
 # Contexto (quién soy y de qué va mi trabajo)
 
-Soy **desarrollador de software** y actualmente vivo/trabajo desde **Abancay, Apurímac, Perú**.
+Soy **desarrollador de software** y vivo/trabajo desde **Abancay, Apurímac, Perú**.
 
-Busco implementar un **negocio adicional a mi trabajo principal**, pero no necesariamente relacionado con desarrollo de software, porque no quiero crear una segunda ocupación que requiera mi presencia permanente ni duplicar mi carga laboral.
+Busco construir una **fuente adicional de ingresos** que pueda crecer sin convertirse en una segunda jornada laboral permanente. Después de evaluar distintas alternativas, he decidido **concentrar el máximo esfuerzo en una sola línea de negocio**:
 
-El objetivo general de esta investigación es identificar uno o más modelos de negocio que puedan convertirse en una fuente adicional de ingresos y que tengan estas características:
+> **crear y operar una red de contenido digital faceless como una pequeña empresa de medios digitales.**
 
-- puedan empezar con capital razonable;
-- tengan demanda verificable;
-- puedan delegarse o automatizarse progresivamente;
-- no requieran que yo atienda presencialmente durante todo el día;
-- tengan posibilidad de crecer sin que el tiempo requerido crezca proporcionalmente;
-- permitan validar el mercado antes de comprometer demasiado capital.
+La investigación ya no debe desviarse hacia negocios físicos, distribución, B2B, proveedores institucionales u otras líneas, salvo que yo lo solicite explícitamente en el futuro.
 
-Inicialmente se evaluaron negocios físicos en Abancay, como:
+La idea no es simplemente “subir videos virales”. El objetivo es crear un sistema editorial repetible que permita producir contenido original, distribuirlo en múltiples plataformas, medir resultados y progresivamente automatizar o delegar la operación.
 
-- grooming para perros;
-- pequeña tienda/cafetería con productos Pumatiy y café Kaipiy;
-- distribución de productos para mascotas;
-- proveedor/intermediario de productos e insumos de alta rotación.
-
-Los alquileres comerciales considerados en Abancay están aproximadamente entre **S/1,500 y S/3,000 mensuales**.
-
-Después de investigar demanda, operatividad y márgenes, actualmente hay **dos líneas de negocio prioritarias**:
-
-1. **Proveedor/facilitador B2B e institucional de bienes**, principalmente mediante compras contra requerimiento/adjudicación.
-2. **Red de contenido digital faceless**, principalmente YouTube, reutilizando cada producción en Facebook, Instagram y TikTok.
-
-Estas dos líneas **no deben mezclarse como un solo negocio**. Pueden desarrollarse en paralelo porque tienen perfiles de riesgo distintos:
-
-- B2B institucional = flujo de caja potencialmente más predecible y basado en órdenes reales.
-- Contenido digital = menor capital inicial, mayor incertidumbre inicial, pero mucha mayor escalabilidad.
-
----
-
-# Objetivo (qué quiero conseguir)
-
-## Objetivo principal
-
-Encontrar y validar un negocio adicional capaz de generar ingresos relevantes sin depender permanentemente de mi presencia física.
-
-No se busca únicamente “una idea de negocio”. La investigación debe llegar hasta responder:
-
-1. ¿Existe demanda real?
-2. ¿Quién compra?
-3. ¿Cuánto compra?
-4. ¿Cuánto paga?
-5. ¿Dónde puedo abastecerme?
-6. ¿Cuál sería el costo puesto en Abancay?
-7. ¿Cuál es el margen bruto y neto real?
-8. ¿Cuánto capital de trabajo necesito?
-9. ¿Cuánto tiempo personal requiere?
-10. ¿Qué partes pueden automatizarse o delegarse?
-11. ¿Cuáles son los riesgos regulatorios, tributarios, operativos y financieros?
-12. ¿Cuál sería una prueba mínima antes de invertir de forma importante?
-
----
-
-## Línea A — Proveedor B2B / proveedor institucional
-
-La hipótesis actual es **NO abrir inicialmente una tienda o distribuidora tradicional**.
-
-El modelo preferido es:
-
-```text
-requerimiento
-    ↓
-detectar oportunidad
-    ↓
-analizar especificaciones técnicas
-    ↓
-buscar fabricante/mayorista
-    ↓
-calcular producto + flete + costos + margen
-    ↓
-cotizar
-    ↓
-adjudicación / orden
-    ↓
-comprar contra pedido
-    ↓
-entregar
-    ↓
-conformidad
-    ↓
-cobrar
-```
-
-Esto reduce inventario ocioso y permite validar el negocio antes de asumir alquiler.
-
-### Demanda encontrada
-
-Se encontraron compras y recotizaciones recurrentes en instituciones de Apurímac, entre ellas:
-
-- DIRESA Apurímac;
-- UGEL Abancay;
-- UGEL Huancarama;
-- UGEL Grau;
-- otras entidades públicas regionales.
-
-Un dato especialmente relevante es que existen procesos recotizados explícitamente por:
-
-- **falta de postores**;
-- ofertas que **no cumplen las especificaciones técnicas**;
-- propuestas con **precios considerados altos**.
-
-Ejemplos investigados:
-
-- DIRESA Apurímac — COT-503: materiales de aseo y limpieza, recotizada por falta de postores.
-- UGEL Abancay — COT-275 / variantes posteriores: limpieza, inicialmente con falta de postores y posteriormente ofertas con incumplimiento técnico y/o precios altos.
-
-No se encontró evidencia sólida para afirmar que la falta de proveedores sea principalmente porque DIRESA o UGEL tengan un problema sistemático de impago.
-
-Un problema visible es que algunas cotizaciones tienen **plazos extremadamente cortos**, incluso alrededor de un día, lo que favorece a quien monitorea continuamente los portales y puede cotizar rápidamente.
-
-### Oportunidad identificada
-
-La ventaja competitiva puede ser precisamente:
-
-> detectar antes que otros proveedores los requerimientos, conseguir rápidamente un producto que cumpla la ficha técnica y presentar una cotización correctamente documentada.
-
-Esto es especialmente compatible con automatización mediante software.
-
----
-
-## Márgenes observados en una contratación real
-
-Se analizó como muestra la contratación menor:
-
-**CM-109-2025-RQ-UGEL-HMA — UGEL Huancarama**
-
-La contratación permitió observar adjudicación por ítem y diferentes proveedores ganadores.
-
-Ejemplos aproximados investigados:
-
-| Producto | Precio adjudicado aproximado | Costo comparable encontrado | Margen bruto aproximado antes de logística |
-|---|---:|---:|---:|
-| Detergente 800 g | S/7.80 | ~S/5.55 equivalente | ~29% |
-| Bolsa negra x100 | S/55.00 | ~S/50 retail/distribución | ~9% |
-| Papel higiénico 40 m | S/1.60 | ~S/1.56 | ~2% |
-| Toallitas húmedas x200 | S/11.80 | ~S/8.50 | ~28% |
-| Franela 70 cm x 1 m | S/6.50 | ~S/3.90 | ~40% |
-| Pañales XXG x72 | S/58.50 | ~S/47.90–50.90 | ~13–18% |
-| Lavavajilla 500–520 g | S/4.50 | ~S/4.00 | ~11% |
-| Guantes de jebe talla L | S/7.50 | ~S/3.70 por volumen | ~51% |
-
-### Conclusión de esta muestra
-
-No conviene competir en todos los productos.
-
-El modelo debe seleccionar **ítems individualmente** según margen y facilidad de abastecimiento.
-
-Productos observados con poco margen:
-
-- papel higiénico;
-- algunos lavavajillas;
-- bolsas compradas a distribuidor en lugar de fábrica.
-
-Productos que mostraron mayor potencial:
-
-- guantes;
-- franela/textiles simples;
-- toallitas;
-- determinados detergentes;
-- algunos productos donde pueda comprarse directamente al fabricante/importador.
-
-La hipótesis de trabajo es buscar oportunidades con **margen bruto objetivo ≥ 20%**, salvo que exista una razón estratégica para aceptar menos.
-
----
-
-## Abastecimiento potencial ya identificado
-
-Se encontraron como ejemplos de canales upstream a investigar/cotizar directamente:
-
-- fabricantes nacionales de productos de limpieza;
-- importadores/distribuidores nacionales de detergentes;
-- mayoristas de guantes y EPP;
-- fabricantes/distribuidores de textiles de limpieza;
-- distribuidores mayoristas de productos de consumo;
-- fabricantes directos de bolsas y empaques.
-
-IMPORTANTE:
-
-No asumir que los proveedores ganadores de una contratación compran necesariamente en estos comercios. Las facturas privadas de compra no son públicas. Los precios encontrados se usan como **referencias comparables de costo**, no como prueba de la cadena real del adjudicatario.
-
----
-
-## Tributación considerada para el modelo B2B
-
-La investigación tributaria preliminar indica:
-
-- la mercadería comprada para vender **forma parte del costo de ventas**, por lo que reduce la renta imponible cuando corresponde reconocer ese costo;
-- los gastos relacionados al negocio —transporte, personal, contador, alquiler, etc.— pueden reducir la renta imponible cuando cumplen los requisitos tributarios;
-- el IGV de adquisiciones válidas puede generar **crédito fiscal** contra el IGV de las ventas;
-- debe comprarse con **factura a nombre de la empresa/RUC**;
-- cuando corresponde bancarización, debe utilizarse un medio de pago admitido;
-- comprar inventario no significa automáticamente deducir todo inmediatamente: el inventario no vendido permanece como existencia;
-- comprar específicamente contra adjudicación simplifica el ciclo de inventario.
-
-El **Régimen MYPE Tributario (RMT)** parece inicialmente más compatible con una distribuidora de márgenes variables que un régimen que grave un porcentaje fijo de las ventas, pero debe confirmarse con un contador antes de operar.
-
-No confundir:
-
-```text
-Impuesto a la Renta → se analiza sobre utilidad/renta neta según régimen.
-IGV → se analiza como IGV de ventas menos crédito fiscal admisible.
-```
-
----
-
-# Línea B — Red de contenido digital faceless
-
-La segunda oportunidad investigada es desarrollar una pequeña **empresa de medios digitales**, no simplemente subir videos aleatorios.
-
-Modelo de distribución inicial:
+Modelo inicial:
 
 ```text
 1 investigación / tema
         ↓
 1 video largo para YouTube
         ↓
-3–4 piezas verticales
+3–4 piezas verticales derivadas
         ↓
 YouTube Shorts
 Facebook Reels
@@ -234,9 +31,7 @@ Instagram Reels
 TikTok
 ```
 
-No abrir múltiples canales inmediatamente.
-
-Primero:
+La estrategia inicial es:
 
 ```text
 1 nicho
@@ -245,21 +40,48 @@ Primero:
 4 plataformas de distribución
 ```
 
-Abrir un segundo canal solo cuando exista una fórmula demostrablemente repetible.
+No abrir varios canales desde el inicio. Un segundo canal solo debe considerarse cuando exista una fórmula editorial y operativa demostrablemente repetible.
+
+---
+
+# Objetivo (qué quiero conseguir)
+
+## Objetivo principal
+
+Construir una **empresa de medios digitales faceless rentable, escalable y delegable**, comenzando con un solo canal y utilizando YouTube como plataforma principal de monetización.
+
+El sistema debe permitir reutilizar cada investigación en distintas piezas y plataformas sin caer en contenido duplicado, reciclado o producido en masa con poco valor.
+
+La investigación debe responder progresivamente:
+
+1. ¿Qué nicho tiene la mejor combinación de demanda, viralidad, RPM, evergreen y baja saturación?
+2. ¿Qué patrones de contenido se repiten mes a mes?
+3. ¿Qué temas permiten aprovechar tendencias sin convertir el canal en un canal de noticias?
+4. ¿Qué formatos de títulos, thumbnails, hooks y estructuras narrativas generan mayor CTR y retención?
+5. ¿Cuánto cuesta producir cada video largo y sus derivados verticales?
+6. ¿Cuántas vistas se necesitan para cubrir costos y generar utilidad?
+7. ¿Cuál es el margen operativo real después de herramientas, producción y colaboradores?
+8. ¿Qué partes puedo automatizar con software e IA sin comprometer calidad ni monetización?
+9. ¿Qué partes conviene delegar primero?
+10. ¿Cómo crear y administrar de forma segura las cuentas de correo, YouTube, Meta, Instagram y TikTok?
+11. ¿Cómo proteger la propiedad de los canales frente a robos, phishing o colaboradores?
+12. ¿Cómo gestionar copyright, licencias, Content ID y material generado con IA?
+13. ¿Cómo medir si el canal realmente tiene una fórmula repetible antes de abrir un segundo canal?
+14. ¿Cómo convertir el proyecto en un activo que pueda seguir generando vistas e ingresos meses o años después de publicar?
 
 ---
 
 ## Nicho recomendado actualmente
 
-La investigación sugiere priorizar:
+La investigación realizada hasta ahora favorece:
 
-> **historias empresariales + economía cotidiana + el negocio detrás de acontecimientos/productos/empresas**
+> **historias empresariales + economía cotidiana + el negocio detrás de acontecimientos, productos, industrias y empresas.**
 
 Conceptualmente:
 
 > **“El negocio detrás de…”**
 
-Ejemplos de temas:
+Ejemplos:
 
 - Cómo McDonald’s realmente gana dinero.
 - Por qué Costco mantiene barato su hot dog.
@@ -268,6 +90,8 @@ Ejemplos de temas:
 - El negocio detrás de los centros de datos.
 - Cómo FIFA gana dinero con un Mundial.
 - Por qué determinadas empresas crecen mientras reducen personal.
+- Quién gana cuando sube el petróleo.
+- Por qué una empresa puede perder dinero en un producto y aun así querer vender más.
 
 No se busca convertirse en un canal de noticias.
 
@@ -278,10 +102,12 @@ tendencia actual
     ↓
 historia empresarial/económica detrás
     ↓
+mecanismo interesante
+    ↓
 explicación suficientemente evergreen
 ```
 
-Esto permite aprovechar el pico de interés inicial y mantener valor meses o años después.
+La tendencia aporta el pico inicial de demanda; la explicación debe conservar valor después de que el acontecimiento deje de ser noticia.
 
 ---
 
@@ -289,11 +115,11 @@ Esto permite aprovechar el pico de interés inicial y mantener valor meses o añ
 
 La investigación enero–agosto de 2026 mostró cinco motores recurrentes:
 
-1. **Resultados empresariales** — aproximadamente cada trimestre.
+1. **Resultados empresariales** — reaparecen aproximadamente cada trimestre.
 2. **Nueva tecnología** — IA, dispositivos, plataformas, chips, centros de datos.
-3. **Crisis externas** — petróleo, conflictos, tarifas, inflación.
+3. **Crisis externas** — petróleo, conflictos, tarifas, inflación y efectos económicos.
 4. **Grandes eventos conocidos de antemano** — Mundial, Black Friday, Navidad, etc.
-5. **Historias evergreen** — Costco, IKEA, McDonald’s, Amazon, Coca-Cola, Zara, etc.
+5. **Historias evergreen** — Costco, IKEA, McDonald’s, Amazon, Coca-Cola, Zara y otras empresas/modelos reconocibles.
 
 ### Patrón mensual observado
 
@@ -308,9 +134,7 @@ La investigación enero–agosto de 2026 mostró cinco motores recurrentes:
 | Julio | Mundial en máximo interés + marcas, FIFA, derechos y economía deportiva |
 | Agosto | quién gana realmente dinero con la IA y cuánto cuesta mantener la inversión |
 
-El patrón importante NO es que un tema específico se repita eternamente.
-
-Lo que se repite es esta evolución:
+El patrón importante no es que el mismo tema siga siendo tendencia para siempre. Lo que se repite es la evolución de la pregunta:
 
 ```text
 qué está pasando
@@ -326,7 +150,7 @@ quién está pagando demasiado
 qué ocurre después
 ```
 
-Por ejemplo, la tendencia IA evolucionó de:
+Ejemplo con IA:
 
 ```text
 ¿Qué puede hacer?
@@ -337,24 +161,24 @@ Por ejemplo, la tendencia IA evolucionó de:
 → ¿Se está gastando demasiado?
 ```
 
-Una megatendencia puede generar una **serie editorial**, no un único video.
+Una megatendencia debe tratarse como una **serie editorial**, no como un único video.
 
 ---
 
-## Mezcla editorial recomendada
+## Mezcla editorial inicial
 
-Como hipótesis inicial:
+Hipótesis de trabajo:
 
 - **40% evergreen**;
 - **30% tendencia convertida en evergreen**;
 - **20% eventos/calendario estacional**;
 - **10% experimentación**.
 
-Esto reduce dependencia de noticias diarias.
+La finalidad es evitar dependencia de noticias diarias y construir una biblioteca que siga generando tráfico.
 
 ---
 
-## Formatos de títulos observados/recomendados
+## Formatos de títulos a investigar y validar
 
 - `Por qué X está haciendo Y`
 - `Cómo X realmente gana dinero`
@@ -367,303 +191,331 @@ Esto reduce dependencia de noticias diarias.
 - `Quién gana realmente con X`
 - `Por qué X cuesta tan poco`
 
-La finalidad no debe ser clickbait vacío, sino crear un **curiosity gap que después se resuelve con un mecanismo económico real**.
+La finalidad no es clickbait vacío. El título debe crear un **curiosity gap** que el video resuelva mediante una explicación real.
 
 ---
 
-## Economía preliminar del negocio de contenido
+## Arquitectura de contenido
+
+Formato principal recomendado:
+
+- videos largos de aproximadamente **8–12 minutos**;
+- objetivo inicial de **2 videos largos por semana**;
+- derivar **3–4 piezas verticales** de cada investigación;
+- producir exportaciones limpias para cada plataforma, sin descargar y reutilizar archivos con watermark de otra red.
+
+Los Shorts/Reels/TikTok deben funcionar como descubrimiento y distribución; el video largo de YouTube debe ser el principal activo monetizable y evergreen.
+
+---
+
+## Economía preliminar del negocio
 
 YouTube sería inicialmente la plataforma principal de monetización.
 
-Facebook, Instagram y TikTok deben considerarse inicialmente principalmente como distribución y upside adicional, no como ingresos garantizados.
+Facebook, Instagram y TikTok deben considerarse al principio principalmente como **distribución y upside adicional**, no como ingresos garantizados.
 
-### Escenario de canal que empieza a funcionar
+### Escenario: el canal empieza a funcionar
 
 Hipótesis:
 
-- 250,000 vistas mensuales de video largo;
+- 250,000 vistas mensuales de videos largos;
 - 1 millón de Shorts.
 
-Rango estimado discutido:
+Rango de ingresos estudiado:
 
-- aproximadamente US$655–1,350 mensuales antes de costos.
+- aproximadamente **US$655–1,350 mensuales antes de costos**.
 
-### Escenario “va bien”
+### Escenario: el canal va bien
 
 Hipótesis:
 
 - 8 videos largos al mes;
 - 24–32 verticales;
-- 1 millón de vistas de videos largos;
+- 1 millón de vistas mensuales en videos largos;
 - 5 millones de Shorts.
 
-Rango estimado de YouTube:
+Rango estudiado para YouTube:
 
-- aproximadamente US$2,650–5,500 mensuales antes de costos.
+- aproximadamente **US$2,650–5,500 mensuales antes de costos**.
 
-Si la producción se delega parcialmente y cuesta aproximadamente US$650–1,370 mensuales:
+Si la producción parcialmente delegada cuesta aproximadamente **US$650–1,370 mensuales**:
 
-- margen operativo potencial aproximado: **48%–88%** antes de impuestos;
-- escenario medio estudiado: US$4,000 ingresos – US$1,000 producción ≈ US$3,000 utilidad operativa (~75%).
+- margen operativo potencial aproximado estudiado: **48%–88% antes de impuestos**;
+- escenario medio de referencia: `US$4,000 ingresos – US$1,000 producción ≈ US$3,000 utilidad operativa`, equivalente a ~75% de margen.
 
-IMPORTANTE:
+Estos números son **escenarios de modelado, no garantías ni previsiones**. Un canal nuevo puede producir **S/0 durante meses**.
 
-Estos números son escenarios, **no una garantía ni una previsión financiera**. El canal puede producir S/0 durante meses.
-
-El riesgo financiero es bajo comparado con un local físico, pero el riesgo de no obtener audiencia es alto.
+El principal atractivo del modelo es su **bajo capital inicial y alta escalabilidad**; el principal riesgo es no conseguir audiencia suficiente.
 
 ---
 
-## Restricciones de contenido
+# Restricciones (qué sí y qué no según capacidad y posibilidades económicas)
 
-No crear una “granja de IA” basada en:
+## Sí
 
-- copiar contenido;
-- leer artículos automáticamente;
-- clips reciclados;
-- voz IA + imágenes genéricas sin transformación;
-- cientos de videos hechos con la misma plantilla;
-- repost de otros creadores.
+- concentrar la investigación únicamente en el negocio de contenido faceless;
+- empezar con un solo canal;
+- validar antes de contratar un equipo grande;
+- utilizar YouTube como activo principal;
+- distribuir derivados en Facebook, Instagram y TikTok;
+- usar IA para investigación, organización, borradores y productividad;
+- mantener revisión humana;
+- automatizar tareas repetitivas;
+- construir contenido original y transformativo;
+- priorizar contenido evergreen o trend-to-evergreen;
+- medir todas las decisiones con datos reales;
+- distinguir siempre hechos, estimaciones e hipótesis;
+- invertir progresivamente según señales reales de tracción;
+- delegar primero el cuello de botella que más tiempo consume.
 
-YouTube y Meta están endureciendo las políticas contra contenido repetitivo, producido en masa o poco original.
+## No
 
-La IA debe utilizarse como asistencia:
+- investigar otros modelos de negocio salvo solicitud explícita;
+- abrir múltiples canales de inmediato;
+- crear una granja de IA;
+- copiar artículos y convertirlos automáticamente en videos;
+- clips reciclados de otros creadores;
+- reutilización mínima de contenido ajeno;
+- voz IA + imágenes genéricas sin aportación editorial real;
+- cientos de videos con la misma plantilla;
+- comprar tráfico o audiencia falsa;
+- basar el modelo financiero en ingresos de Facebook/TikTok/Instagram todavía no garantizados;
+- asumir que una tendencia garantiza monetización;
+- contratar un equipo completo antes de validar el canal;
+- compartir contraseñas maestras con colaboradores;
+- depender de una única cuenta personal de correo para toda la empresa de medios.
 
-```text
-investigación
-→ organización de fuentes
-→ borrador de guion
-→ revisión humana
-→ producción original
-→ edición
-→ publicación
-```
+## Restricción económica
 
-El contenido debe aportar narración, selección editorial, explicación, contexto o análisis original.
+No existe todavía un presupuesto definitivo.
 
----
+La validación inicial debe mantenerse deliberadamente barata y aumentar gasto únicamente cuando existan señales objetivas de tracción.
 
-# Restricciones (qué sí y qué no dependiendo de posibilidades/capacidad económica)
-
-## Restricciones generales
-
-### Sí
-
-- negocios que puedan probarse antes de invertir mucho dinero;
-- modelos delegables;
-- modelos automatizables;
-- compra contra pedido/adjudicación;
-- usar tecnología para reducir trabajo repetitivo;
-- experimentar con un MVP;
-- negocios físicos solo cuando la demanda esté suficientemente demostrada;
-- análisis con números reales y fuentes actuales;
-- distinguir siempre datos confirmados de estimaciones.
-
-### No
-
-- asumir un alquiler de S/1,500–3,000 sin validación previa;
-- llenar un almacén con inventario especulativo;
-- abrir una cafetería/grooming que exija atención permanente sin validar previamente delegación y demanda;
-- entrar en negocios que conviertan mi tiempo libre en una segunda jornada completa;
-- aceptar márgenes aparentes calculados contra precios retail cuando exista posibilidad de comprar a fabricante/mayorista;
-- asumir que una licitación o cotización “sin postores” significa automáticamente alta rentabilidad;
-- asumir que una entidad no paga sin evidencia;
-- asumir ingresos publicitarios de redes sociales como garantizados;
-- crear múltiples canales antes de validar uno;
-- producir contenido automatizado de baja calidad o reutilizado.
-
----
-
-## Restricciones económicas de referencia
-
-No existe todavía un presupuesto de inversión definitivo.
-
-Como criterio general:
-
-- debe preferirse primero un experimento de bajo costo;
-- evitar alquiler fijo durante la fase inicial;
-- el B2B debe calcular capital de trabajo pedido por pedido;
-- el contenido digital debe validarse con una inversión significativamente inferior al costo de varios meses de un local comercial.
-
-Para B2B, no confundir margen con caja disponible: puede ser necesario financiar toda la compra hasta que la entidad entregue conformidad y pague.
+El costo debe analizarse siempre incluyendo el valor del tiempo personal. Un margen aparentemente alto no es atractivo si exige una segunda jornada laboral completa.
 
 ---
 
 # Investigación futura (pendiente y necesaria)
 
-Las siguientes tareas deben investigarse **sin desviar el proyecto hacia ideas de negocio nuevas**, salvo que los datos actuales invaliden las dos líneas prioritarias.
+## Fase 1 — Marca, identidad y arquitectura del negocio digital
 
-## Fase 1 — Formalización mínima del negocio B2B
-
-1. Definir si conviene operar inicialmente como persona natural con negocio o persona jurídica.
-2. Comparar EIRL, SAC/SACS u otra figura relevante para este modelo.
-3. Confirmar régimen tributario apropiado con datos de facturación/margen previstos.
-4. Confirmar requisitos actuales del RNP como proveedor de bienes.
-5. Confirmar requisitos del módulo de Cotizador/OECE/SEACE.
-6. Definir cuenta bancaria empresarial y CCI.
-7. Definir facturación electrónica y sistema contable.
-8. Preparar checklist documental reusable para cotizaciones públicas.
-9. Determinar cuándo aplican detracciones, retenciones o percepciones según producto/operación.
-10. Validar plazo real promedio de pago de entidades de Apurímac usando órdenes pagadas, no solo el plazo legal.
+1. Definir nombre del proyecto/canal.
+2. Verificar disponibilidad del nombre en YouTube, Facebook, Instagram, TikTok y dominio web.
+3. Definir si utilizar dominio propio desde el inicio.
+4. Definir identidad visual mínima y consistente.
+5. Definir quién será legalmente propietario de las cuentas y activos.
+6. Separar identidad personal de infraestructura empresarial cuando sea posible.
+7. Crear un inventario de activos digitales y propietarios.
 
 ---
 
-## Fase 2 — Base real de oportunidades B2B
-
-1. Recopilar al menos **30–50 compras adjudicadas** en Apurímac.
-2. Extraer por cada ítem:
-   - entidad;
-   - fecha;
-   - producto;
-   - especificación técnica;
-   - cantidad;
-   - precio unitario;
-   - monto adjudicado;
-   - proveedor ganador.
-3. Clasificar productos por recurrencia.
-4. Buscar 2–3 fabricantes/importadores/mayoristas para cada producto frecuente.
-5. Pedir precios reales para volumen institucional.
-6. Calcular costo puesto en Abancay incluyendo flete.
-7. Calcular margen sin IGV correctamente.
-8. Añadir costos administrativos/financieros.
-9. Identificar productos con margen neto esperado atractivo.
-10. Crear una lista inicial de **10–20 SKU objetivo**, no un catálogo gigantesco.
-
----
-
-## Fase 3 — Automatización B2B
-
-Investigar/desarrollar un sistema que:
-
-1. revise periódicamente portales relevantes;
-2. detecte nuevas cotizaciones/requerimientos;
-3. extraiga fecha de cierre;
-4. descargue EETT/TDR;
-5. extraiga productos/cantidades;
-6. clasifique la oportunidad;
-7. compare contra nuestra base de proveedores;
-8. estime costo + flete + margen;
-9. calcule un score de oportunidad;
-10. avise únicamente cuando una oportunidad supere un umbral definido.
-
-El sistema debe evitar cotizar automáticamente sin revisión humana en la fase inicial.
-
----
-
-## Fase 4 — Infraestructura de cuentas para el negocio digital
-
-Este punto todavía NO ha sido estudiado en profundidad y es necesario antes de operar múltiples plataformas.
-
-### Correo electrónico
+## Fase 2 — Correo electrónico y estructura de cuentas
 
 Investigar y definir:
 
-1. si utilizar un dominio propio desde el inicio;
-2. proveedor de correo empresarial;
-3. esquema de cuentas, por ejemplo:
+1. proveedor de correo empresarial;
+2. dominio propio;
+3. alias vs buzones independientes;
+4. esquema de cuentas, por ejemplo:
    - propietario/admin;
    - operaciones;
    - contenido;
    - recuperación/seguridad;
-4. evitar que todas las plataformas dependan de una sola cuenta personal;
-5. estrategia de recuperación si una cuenta es bloqueada o robada;
-6. alias frente a buzones independientes;
-7. backup/exportación de correos importantes.
+5. correo específico utilizado como propietario principal de cada plataforma;
+6. cuentas de recuperación separadas;
+7. número telefónico utilizado para recuperación;
+8. backup/exportación de correos críticos;
+9. procedimiento documentado para recuperar cada plataforma;
+10. evitar que todas las plataformas dependan de una sola cuenta personal.
 
-### Seguridad
+Objetivo:
 
-Definir antes de escalar:
+> **un compromiso de una cuenta no debe permitir tomar control de todo el negocio.**
 
-1. gestor de contraseñas;
-2. contraseñas únicas por plataforma;
-3. MFA/2FA;
-4. preferentemente passkeys o llaves físicas de seguridad para cuentas críticas;
-5. códigos de recuperación almacenados offline;
-6. número telefónico de recuperación correctamente controlado;
-7. cuentas de recuperación separadas;
-8. evitar compartir contraseñas con editores/freelancers;
-9. utilizar roles y permisos de plataforma cuando estén disponibles;
-10. procedimiento de revocación inmediata cuando un colaborador deja el equipo;
-11. prevención de phishing dirigido a creadores;
-12. respaldo de archivos maestros, thumbnails, guiones y recursos.
+---
 
-### Estructura de propiedad de las cuentas
+## Fase 3 — Seguridad
 
-Investigar específicamente:
+Antes de escalar:
 
-- YouTube Brand Accounts / permisos actuales de canales;
-- Google/YouTube roles y propietarios;
-- Meta Business Portfolio / Business Manager;
-- propiedad de páginas de Facebook;
-- acceso de Instagram desde Meta;
-- TikTok Business/Creator y permisos de equipo;
-- cómo agregar colaboradores sin entregar la contraseña maestra.
+1. utilizar gestor de contraseñas;
+2. contraseña única por servicio;
+3. MFA/2FA obligatorio;
+4. priorizar passkeys o llaves físicas para cuentas críticas cuando sea posible;
+5. guardar códigos de recuperación offline;
+6. proteger el correo propietario con más seguridad que las cuentas operativas;
+7. evitar compartir credenciales con freelancers;
+8. utilizar roles/permisos nativos;
+9. otorgar principio de mínimo privilegio;
+10. documentar revocación inmediata de acceso;
+11. mantener registro de quién tiene acceso a cada activo;
+12. protegerse contra phishing dirigido a creadores y falsos patrocinios;
+13. definir dispositivo/navegador seguro para tareas administrativas;
+14. revisar sesiones activas periódicamente;
+15. respaldar masters, thumbnails, guiones, fuentes y recursos.
 
-La regla debe ser:
+La regla es:
 
 > **la empresa conserva la propiedad; los colaboradores reciben solo el acceso mínimo necesario.**
 
 ---
 
-## Fase 5 — Propiedad intelectual y cumplimiento del negocio de contenido
+## Fase 4 — Propiedad y permisos en plataformas
+
+Investigar específicamente el funcionamiento actual de:
+
+1. YouTube/Google — roles, propietarios y permisos de canal;
+2. Meta Business Portfolio / Business Manager;
+3. propiedad de páginas de Facebook;
+4. integración y propiedad de Instagram desde Meta;
+5. TikTok Creator/Business y permisos de equipo;
+6. cómo agregar editores, diseñadores y community managers sin compartir contraseña;
+7. cómo transferir o recuperar propiedad;
+8. qué sucede si una cuenta personal asociada queda suspendida;
+9. redundancia de propietarios cuando la plataforma lo permita.
+
+---
+
+## Fase 5 — Propiedad intelectual y cumplimiento
 
 Investigar y documentar:
 
-1. uso permitido de imágenes y video de terceros;
+1. uso permitido de imágenes y videos de terceros;
 2. licencias de stock;
 3. Creative Commons y sus variantes;
-4. material de archivo/dominio público;
-5. límites de uso bajo comentario/análisis y riesgos de copyright;
+4. dominio público;
+5. uso de material periodístico bajo comentario/análisis y sus riesgos;
 6. Content ID de YouTube;
 7. música y efectos de sonido;
-8. derechos sobre voces IA y material generado por IA;
-9. políticas de contenido sintético/alterado;
-10. uso de marcas/logos en thumbnails y narración editorial;
-11. proceso ante copyright claim;
-12. proceso ante copyright strike;
-13. archivo de fuentes utilizadas para cada video.
+8. derechos comerciales de herramientas de voz IA;
+9. derechos sobre imágenes/video generados con IA;
+10. políticas sobre contenido sintético o alterado;
+11. uso editorial de marcas/logos;
+12. proceso ante copyright claim;
+13. proceso ante copyright strike;
+14. cómo documentar licencias y fuentes.
 
-Cada video debería conservar una carpeta o registro con:
+Cada video debe conservar un expediente mínimo:
 
 ```text
-fuentes
-licencias
-script
-master
-thumbnail
-exportaciones
-fecha de publicación
+/video-id/
+  fuentes
+  notas-investigacion
+  licencias
+  script
+  voz
+  recursos
+  proyecto-edicion
+  master
+  verticales
+  thumbnail
+  metadata
+  fecha-publicacion
 ```
 
 ---
 
-## Fase 6 — Validación del primer canal
+## Fase 6 — Investigación competitiva del nicho
 
-Antes de abrir más canales:
+Construir una base de al menos **30–50 videos de alto rendimiento** en español e inglés relacionados con:
 
-1. seleccionar nombre/branding;
-2. seleccionar 20 temas iniciales;
-3. preparar backlog de 6–8 semanas;
-4. producir primeros 3–5 videos antes del lanzamiento;
-5. publicar aproximadamente 2 largos/semana durante la prueba;
-6. derivar 3–4 verticales por investigación;
-7. medir por pieza:
-   - CTR;
-   - retención a 30 segundos;
-   - duración media;
-   - porcentaje completado;
-   - returning viewers;
-   - suscriptores por 1,000 vistas;
-   - tráfico de Shorts hacia contenido largo;
-8. identificar formatos ganadores;
-9. eliminar formatos que no funcionan;
-10. no lanzar un segundo canal hasta demostrar repetibilidad.
+- historias empresariales;
+- modelos de negocio;
+- economía cotidiana;
+- empresas durante grandes tendencias;
+- tecnología explicada desde su economía;
+- eventos deportivos/estacionales desde el negocio detrás.
+
+Extraer por video:
+
+1. canal;
+2. fecha;
+3. antigüedad del canal;
+4. vistas;
+5. duración;
+6. título;
+7. thumbnail;
+8. hook inicial;
+9. estructura narrativa;
+10. frecuencia de cortes/cambios visuales;
+11. fuentes visuales utilizadas;
+12. CTA;
+13. comentarios recurrentes;
+14. relación vistas/suscriptores cuando sea útil;
+15. si el tema fue tendencia o evergreen;
+16. cuánto tiempo continuó generando vistas si puede observarse.
+
+Objetivo: identificar **formatos repetibles**, no copiar videos.
 
 ---
 
-## Fase 7 — Sistema de tendencias
+## Fase 7 — Backlog inicial y validación del primer canal
 
-Investigar/desarrollar un sistema que monitoree ventanas:
+1. seleccionar **20 temas iniciales**;
+2. clasificarlos por:
+   - tendencia;
+   - evergreen;
+   - competencia;
+   - potencial de thumbnail;
+   - monetización probable;
+   - recursos visuales disponibles;
+   - dificultad de investigación;
+3. preparar un backlog de 6–8 semanas;
+4. producir 3–5 videos antes del lanzamiento;
+5. publicar aproximadamente 2 largos por semana;
+6. derivar 3–4 verticales por investigación;
+7. mantener consistencia suficiente para obtener datos comparables;
+8. no cambiar de nicho después de dos videos malos;
+9. revisar resultados por bloques de contenido.
+
+---
+
+## Fase 8 — Métricas del canal
+
+Medir como mínimo:
+
+### Videos largos
+
+- impresiones;
+- CTR;
+- retención durante primeros 30 segundos;
+- duración media;
+- porcentaje visto;
+- fuentes de tráfico;
+- returning viewers;
+- nuevos espectadores;
+- suscriptores por 1,000 vistas;
+- RPM cuando exista monetización;
+- ingresos por video;
+- comportamiento del catálogo antiguo.
+
+### Verticales
+
+- shown in feed / alcance equivalente según plataforma;
+- swipe-away / viewed ratio cuando exista;
+- porcentaje completado;
+- rewatch;
+- compartidos;
+- comentarios;
+- seguidores/suscriptores generados;
+- tráfico hacia contenido largo.
+
+### Negocio
+
+- costo por investigación;
+- costo por video largo;
+- costo por vertical;
+- horas personales por pieza;
+- ingreso por pieza;
+- utilidad operativa;
+- retorno por hora personal;
+- proporción de catálogo que continúa generando vistas.
+
+---
+
+## Fase 9 — Sistema de tendencias
+
+Investigar/desarrollar un sistema que monitorice ventanas:
 
 - últimas 48 horas;
 - últimos 7 días;
@@ -682,60 +534,171 @@ Tendencia
 ÷ dificultad de producción
 ```
 
-El objetivo NO es perseguir noticias.
+El objetivo no es perseguir noticias.
 
-El objetivo es detectar:
+Debe detectar:
 
 > **acontecimientos con una historia empresarial/económica que siga siendo interesante después del pico.**
 
+El sistema puede apoyarse en automatización, pero la selección editorial final debe permanecer bajo revisión humana durante la fase inicial.
+
 ---
 
-## Fase 8 — Delegación del contenido
+## Fase 10 — Pipeline de producción
 
-Cuando el formato esté validado, investigar costos reales para:
+Definir un flujo reproducible:
+
+```text
+detección del tema
+→ investigación
+→ verificación de fuentes
+→ hipótesis narrativa
+→ outline
+→ guion
+→ revisión/fact-check
+→ voz
+→ recopilación/generación de recursos
+→ edición
+→ thumbnail
+→ metadata
+→ exportaciones por plataforma
+→ publicación
+→ medición
+→ aprendizaje
+```
+
+Documentar:
+
+- herramientas;
+- costo;
+- tiempo promedio;
+- responsable;
+- puntos de control de calidad;
+- qué pasos pueden automatizarse;
+- qué pasos requieren criterio editorial humano.
+
+---
+
+## Fase 11 — IA y automatización
+
+La IA puede apoyar:
+
+- descubrimiento de temas;
+- clasificación de tendencias;
+- búsqueda inicial de fuentes;
+- resumen de documentos;
+- creación de outlines;
+- borradores de guion;
+- variaciones de títulos;
+- ideación de thumbnails;
+- subtítulos;
+- adaptación de contenido largo a vertical;
+- metadata;
+- análisis de resultados.
+
+No debe utilizarse para generar automáticamente contenido sin supervisión.
+
+Mantener revisión humana especialmente en:
+
+- hechos;
+- cifras;
+- acusaciones;
+- temas sensibles;
+- storytelling;
+- copyright;
+- selección de recursos;
+- edición final.
+
+---
+
+## Fase 12 — Delegación
+
+No contratar un equipo completo antes de validar el formato.
+
+Cuando existan señales de tracción, medir qué tarea consume más tiempo y delegarla primero.
+
+Roles posibles:
 
 1. investigador/fact-checker;
 2. guionista;
-3. narrador o voz;
+3. narrador/voz;
 4. editor de video;
 5. diseñador de thumbnails;
 6. operador de publicación;
-7. community manager, solo si realmente agrega valor.
+7. community manager, solo si demuestra retorno.
 
-No contratar un equipo completo antes de validar el canal.
+Para cada rol investigar:
 
-Primero delegar el cuello de botella que más tiempo consume.
+- costo por pieza;
+- calidad mínima;
+- tiempo de entrega;
+- proceso de prueba;
+- permisos necesarios;
+- propiedad de archivos producidos;
+- confidencialidad cuando corresponda.
 
 ---
 
-## Fase 9 — Métricas de decisión entre ambos negocios
+## Fase 13 — Monetización
 
-Cada mes comparar:
+Investigar y mantener actualizado:
 
-| Métrica | B2B institucional | Contenido digital |
-|---|---|---|
-| capital invertido | | |
-| facturación | | |
-| utilidad bruta | | |
-| utilidad operativa | | |
-| horas personales utilizadas | | |
-| retorno sobre capital | | |
-| retorno por hora personal | | |
-| riesgo de pérdida | | |
-| grado de automatización | | |
-| posibilidad de escalar | | |
+1. requisitos actuales del YouTube Partner Program en Perú;
+2. RPM real del canal una vez monetizado;
+3. diferencias de RPM por país de audiencia;
+4. video largo vs Shorts;
+5. Facebook Content Monetization y disponibilidad real;
+6. Instagram Gifts/otras herramientas vigentes;
+7. monetización de TikTok disponible desde Perú;
+8. patrocinios;
+9. afiliados compatibles con el nicho;
+10. licenciamiento de contenido;
+11. productos digitales solo si la audiencia futura lo justifica.
 
-La métrica más importante no debe ser únicamente “cuánto factura”.
+No incluir una fuente de ingresos en la proyección base hasta que exista acceso real a ella.
 
-Debe considerarse:
+---
 
-> **utilidad / capital / horas personales necesarias.**
+## Fase 14 — Finanzas, tributación y estructura empresarial
+
+Antes de que el canal genere ingresos relevantes, investigar:
+
+1. cómo declara en Perú una persona que recibe ingresos de YouTube/Google y otras plataformas extranjeras;
+2. cuándo conviene persona natural vs empresa;
+3. tratamiento tributario de AdSense, patrocinios y afiliados;
+4. comprobantes/documentación de pagos extranjeros;
+5. gastos deducibles relacionados con producción;
+6. contratación de freelancers nacionales/extranjeros;
+7. pagos internacionales;
+8. cuentas bancarias y moneda;
+9. costos de conversión de divisas;
+10. contabilidad necesaria al escalar.
+
+No asumir una estructura tributaria sin verificar la normativa vigente cuando llegue el momento.
+
+---
+
+## Fase 15 — Criterios para abrir un segundo canal
+
+No abrir un segundo canal solo porque el primero tenga un video viral.
+
+Investigar y definir umbrales basados en:
+
+- varios videos con rendimiento repetible;
+- workflow estable;
+- costos conocidos;
+- canal monetizado o con trayectoria clara hacia monetización;
+- capacidad de delegar producción;
+- catálogo evergreen que siga generando vistas;
+- recursos suficientes para no degradar el primer canal.
+
+Solo entonces replicar el sistema hacia otro nicho relacionado o complementario.
 
 ---
 
 # Formato (cómo quiero que otra IA devuelva futuras investigaciones)
 
-Toda IA que reciba este documento debe mantener el foco y responder siguiendo esta estructura.
+Toda IA que reciba este documento debe responder siguiendo esta estructura.
 
 ## 1. Conclusión ejecutiva
 
@@ -769,106 +732,87 @@ Nunca presentar una inferencia como dato confirmado.
 
 ## 4. Números
 
-Cuando analice una oportunidad B2B, devolver como mínimo:
-
-```text
-precio de venta sin IGV
-- costo de producto sin IGV
-- flete
-- costos variables
-- costo financiero si aplica
-= utilidad estimada antes de renta
-```
-
-Y por separado:
-
-```text
-IGV venta
-- crédito fiscal válido
-= IGV estimado por pagar
-```
-
-Mostrar:
-
-- margen bruto %;
-- margen operativo aproximado %;
-- capital requerido;
-- retorno sobre capital.
-
-Para contenido digital mostrar:
+Para contenido digital utilizar como mínimo:
 
 ```text
 vistas
-RPM utilizado
-ingreso estimado
-- producción
+× RPM utilizado
+= ingreso estimado
 - herramientas
+- producción
 - freelancers/personal
-= utilidad operativa
+- otros costos directamente atribuibles
+= utilidad operativa estimada
 ```
 
-Siempre dar un rango conservador/base/optimista cuando no exista certeza.
+Mostrar cuando corresponda:
+
+- escenario conservador;
+- escenario base;
+- escenario optimista;
+- margen operativo %;
+- costo por video;
+- ingreso por 1,000 vistas;
+- retorno por hora personal;
+- tiempo esperado para recuperar inversión.
+
+No presentar RPM estimados como garantías.
 
 ## 5. Riesgos
 
 Indicar:
 
-- qué puede hacer fallar la oportunidad;
-- probabilidad aproximada cuando pueda justificarse;
+- qué puede hacer fallar la estrategia;
 - impacto;
+- evidencia disponible;
 - mitigación.
 
 ## 6. Acción siguiente
 
-Terminar con **1–3 acciones concretas de mayor valor**, no con una lista genérica de veinte ideas.
+Terminar con **1–3 acciones concretas de mayor valor**, no con una lista genérica de ideas.
 
 ---
 
 # Reglas para NO perder el foco
 
-1. No proponer nuevos negocios por defecto.
-2. Priorizar profundizar primero:
-   - proveedor B2B/institucional;
-   - contenido digital faceless.
-3. Solo introducir una nueva línea si existe evidencia fuerte de que supera claramente a las actuales.
-4. No recomendar local físico mientras no exista una razón cuantitativa para asumir alquiler.
-5. No confundir facturación con utilidad.
-6. No confundir margen bruto con efectivo disponible.
-7. No utilizar precios retail como costo definitivo cuando puede obtenerse precio mayorista/fábrica.
-8. No asumir que una compra pública sin postores es automáticamente rentable.
-9. No asumir que una tendencia en redes garantiza monetización.
-10. No abrir varios canales antes de validar uno.
-11. No recomendar automatización completa sin control humano cuando pueda comprometer calidad, cumplimiento o dinero.
-12. Toda recomendación debe responder finalmente a:
+1. **Este proyecto es exclusivamente sobre la red de contenido digital faceless.**
+2. No proponer otros negocios salvo petición explícita.
+3. YouTube es inicialmente el activo principal; Facebook, Instagram y TikTok sirven como distribución y upside adicional.
+4. No abrir múltiples canales antes de validar uno.
+5. No confundir vistas con ingresos.
+6. No confundir ingresos con utilidad.
+7. No asumir RPM sin especificar fuente/geografía/tipo de contenido.
+8. No asumir que una tendencia garantiza rendimiento.
+9. Priorizar tendencia → evergreen frente a noticia pura.
+10. No recomendar contenido automatizado de baja calidad.
+11. No recomendar uso de material de terceros sin analizar copyright/licencia.
+12. No compartir contraseñas maestras con colaboradores.
+13. La propiedad de las cuentas debe permanecer bajo control del propietario/empresa.
+14. Automatizar tareas, no delegar ciegamente criterio editorial.
+15. Cada recomendación debe responder finalmente a:
 
-> **¿Puede este negocio producir ingresos adicionales relevantes sin convertirse en una segunda jornada laboral permanente?**
+> **¿Ayuda a construir un activo digital rentable, escalable y cada vez menos dependiente de mis horas personales?**
 
 ---
 
 # Estado actual de decisión
 
-## B2B / proveedor institucional
+**Decisión:** concentrar el máximo esfuerzo en **Red de contenido digital faceless**.
 
-**Estado:** tesis favorable, requiere más validación cuantitativa.
+**Tesis actual:** favorable como experimento de bajo capital y alto potencial de escala, pero con alta incertidumbre de audiencia durante la fase inicial.
 
-Próximo gran hito:
+**Nicho inicial recomendado:**
 
-> construir una base de 30–50 adjudicaciones reales + costos mayoristas actuales + flete a Apurímac para estimar frecuencia y utilidad mensual real.
+> historias empresariales + economía cotidiana + **“El negocio detrás de…”**
 
-## Contenido digital
+**Plataforma principal:** YouTube.
 
-**Estado:** tesis favorable como experimento de bajo capital y alto upside, pero ingresos iniciales muy inciertos.
+**Distribución secundaria:** YouTube Shorts, Facebook Reels, Instagram Reels y TikTok.
 
-Próximo gran hito:
+**Próximos grandes hitos:**
 
-> seleccionar los primeros 20 temas, definir infraestructura segura de cuentas y ejecutar una prueba de un solo canal durante varias semanas antes de escalar.
-
-## Negocios físicos inicialmente considerados
-
-- grooming;
-- cafetería/chocolatería;
-- pet shop tradicional.
-
-**Estado:** secundarios por ahora, principalmente porque implican mayor dependencia de local, personal y atención diaria.
-
-No eliminarlos permanentemente, pero **no dedicar más investigación prioritaria mientras las dos líneas principales no hayan sido validadas o descartadas**.
+1. definir infraestructura segura de cuentas/correos y propiedad;
+2. completar análisis competitivo de 30–50 videos y seleccionar 20 temas iniciales;
+3. construir backlog y pipeline de producción;
+4. producir/lanzar un único canal;
+5. medir varias semanas de publicaciones antes de decidir cualquier expansión.
